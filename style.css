@@ -13,6 +13,9 @@ a {
 h1{
     font-size: 10px;
 }
+h2{
+    color: black;
+}
 #menu { 
 padding: 100px 
 } 
